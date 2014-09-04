@@ -1,0 +1,1153 @@
+{
+    "matches": [{
+        "matchId": 1439612313,
+        "region": "NA",
+        "matchCreation": 1404282727491,
+        "matchDuration": 1715,
+        "queueType": "RANKED_TEAM_3x3",
+        "mapId": 10,
+        "season": "SEASON2014",
+        "matchVersion": "4.10.0.379",
+        "participants": [{
+            "participantId": 0,
+            "teamId": 100,
+            "championId": 201,
+            "spell1Id": 3,
+            "spell2Id": 4,
+            "stats": {
+                "winner": true,
+                "champLevel": 14,
+                "item0": 3401,
+                "item1": 3068,
+                "item2": 3047,
+                "item3": 3024,
+                "item4": 3057,
+                "item5": 0,
+                "item6": 0,
+                "kills": 4,
+                "doubleKills": 0,
+                "tripleKills": 0,
+                "quadraKills": 0,
+                "pentaKills": 0,
+                "unrealKills": 0,
+                "largestKillingSpree": 2,
+                "deaths": 4,
+                "assists": 21,
+                "totalDamageDealt": 49952,
+                "totalDamageDealtToChampions": 14043,
+                "totalDamageTaken": 28302,
+                "largestCriticalStrike": 0,
+                "totalHeal": 5039,
+                "minionsKilled": 58,
+                "neutralMinionsKilled": 5,
+                "neutralMinionsKilledTeamJungle": 0,
+                "neutralMinionsKilledEnemyJungle": 5,
+                "goldEarned": 10164,
+                "goldSpent": 8175,
+                "magicDamageDealtToChampions": 10999,
+                "physicalDamageDealtToChampions": 3044,
+                "trueDamageDealtToChampions": 0,
+                "visionWardsBoughtInGame": 0,
+                "sightWardsBoughtInGame": 0,
+                "magicDamageDealt": 29578,
+                "physicalDamageDealt": 15590,
+                "trueDamageDealt": 4782,
+                "magicDamageTaken": 6370,
+                "physicalDamageTaken": 21671,
+                "trueDamageTaken": 260,
+                "firstBloodKill": false,
+                "firstBloodAssist": false,
+                "firstTowerKill": false,
+                "firstTowerAssist": false,
+                "firstInhibitorKill": false,
+                "firstInhibitorAssist": true,
+                "inhibitorKills": 0,
+                "towerKills": 0,
+                "wardsPlaced": 0,
+                "wardsKilled": 0,
+                "largestMultiKill": 1,
+                "killingSprees": 1,
+                "totalUnitsHealed": 3,
+                "totalTimeCrowdControlDealt": 1594
+            },
+            "timeline": {
+                "creepsPerMinDeltas": {
+                    "zeroToTen": 1.9000000000000001,
+                    "tenToTwenty": 2.3
+                },
+                "xpPerMinDeltas": {
+                    "zeroToTen": 276.1,
+                    "tenToTwenty": 352.6
+                },
+                "goldPerMinDeltas": {
+                    "zeroToTen": 241.6,
+                    "tenToTwenty": 308.4
+                },
+                "damageTakenPerMinDeltas": {
+                    "zeroToTen": 503.40000000000003,
+                    "tenToTwenty": 1050.3
+                },
+                "role": "DUO",
+                "lane": "MIDDLE"
+            }
+        }],
+        "participantIdentities": [{
+            "participantId": 0,
+            "player": {
+                "summonerName": "Robo The Pichu",
+                "matchHistoryUri": "/v1/stats/player_history/NA/34531049",
+                "profileIcon": 558
+            }
+        }]
+    }, {
+        "matchId": 1450764862,
+        "region": "NA",
+        "matchCreation": 1405126907175,
+        "matchDuration": 2027,
+        "queueType": "RANKED_SOLO_5x5",
+        "mapId": 1,
+        "season": "SEASON2014",
+        "matchVersion": "4.11.0.399",
+        "participants": [{
+            "participantId": 0,
+            "teamId": 100,
+            "championId": 51,
+            "spell1Id": 7,
+            "spell2Id": 4,
+            "stats": {
+                "winner": false,
+                "champLevel": 14,
+                "item0": 1055,
+                "item1": 3006,
+                "item2": 3031,
+                "item3": 3046,
+                "item4": 0,
+                "item5": 0,
+                "item6": 3340,
+                "kills": 3,
+                "doubleKills": 0,
+                "tripleKills": 0,
+                "quadraKills": 0,
+                "pentaKills": 0,
+                "unrealKills": 0,
+                "largestKillingSpree": 2,
+                "deaths": 14,
+                "assists": 9,
+                "totalDamageDealt": 67634,
+                "totalDamageDealtToChampions": 15900,
+                "totalDamageTaken": 27752,
+                "largestCriticalStrike": 812,
+                "totalHeal": 2032,
+                "minionsKilled": 98,
+                "neutralMinionsKilled": 0,
+                "neutralMinionsKilledTeamJungle": 0,
+                "neutralMinionsKilledEnemyJungle": 0,
+                "goldEarned": 8958,
+                "goldSpent": 8145,
+                "magicDamageDealtToChampions": 1125,
+                "physicalDamageDealtToChampions": 14774,
+                "trueDamageDealtToChampions": 0,
+                "visionWardsBoughtInGame": 0,
+                "sightWardsBoughtInGame": 0,
+                "magicDamageDealt": 1421,
+                "physicalDamageDealt": 66213,
+                "trueDamageDealt": 0,
+                "magicDamageTaken": 9432,
+                "physicalDamageTaken": 17086,
+                "trueDamageTaken": 1233,
+                "firstBloodKill": false,
+                "firstBloodAssist": false,
+                "firstTowerKill": true,
+                "firstTowerAssist": false,
+                "firstInhibitorKill": false,
+                "firstInhibitorAssist": false,
+                "inhibitorKills": 0,
+                "towerKills": 2,
+                "wardsPlaced": 5,
+                "wardsKilled": 0,
+                "largestMultiKill": 1,
+                "killingSprees": 1,
+                "totalUnitsHealed": 3,
+                "totalTimeCrowdControlDealt": 34
+            },
+            "timeline": {
+                "creepsPerMinDeltas": {
+                    "zeroToTen": 3.5999999999999996,
+                    "tenToTwenty": 2.9,
+                    "twentyToThirty": 2.1
+                },
+                "xpPerMinDeltas": {
+                    "zeroToTen": 262.7,
+                    "tenToTwenty": 280.6,
+                    "twentyToThirty": 481.8
+                },
+                "goldPerMinDeltas": {
+                    "zeroToTen": 196.10000000000002,
+                    "tenToTwenty": 306.29999999999995,
+                    "twentyToThirty": 259.8
+                },
+                "csDiffPerMinDeltas": {
+                    "zeroToTen": -0.55,
+                    "tenToTwenty": -2.0500000000000003,
+                    "twentyToThirty": -1.8499999999999999
+                },
+                "xpDiffPerMinDeltas": {
+                    "zeroToTen": -3.6999999999999886,
+                    "tenToTwenty": -159.7,
+                    "twentyToThirty": -86.14999999999995
+                },
+                "damageTakenPerMinDeltas": {
+                    "zeroToTen": 310.4,
+                    "tenToTwenty": 804.3,
+                    "twentyToThirty": 1098.9
+                },
+                "damageTakenDiffPerMinDeltas": {
+                    "zeroToTen": -105.39999999999998,
+                    "tenToTwenty": -41.10000000000002,
+                    "twentyToThirty": -113.35000000000002
+                },
+                "role": "DUO",
+                "lane": "BOTTOM"
+            }
+        }],
+        "participantIdentities": [{
+            "participantId": 0,
+            "player": {
+                "summonerName": "Robo The Pichu",
+                "matchHistoryUri": "/v1/stats/player_history/NA/34531049",
+                "profileIcon": 588
+            }
+        }]
+    }, {
+        "matchId": 1460507194,
+        "region": "NA",
+        "matchCreation": 1405799523954,
+        "matchDuration": 1687,
+        "queueType": "RANKED_SOLO_5x5",
+        "mapId": 1,
+        "season": "SEASON2014",
+        "matchVersion": "4.12.0.356",
+        "participants": [{
+            "participantId": 0,
+            "teamId": 200,
+            "championId": 81,
+            "spell1Id": 3,
+            "spell2Id": 4,
+            "stats": {
+                "winner": true,
+                "champLevel": 14,
+                "item0": 1055,
+                "item1": 3025,
+                "item2": 3153,
+                "item3": 3277,
+                "item4": 1037,
+                "item5": 1036,
+                "item6": 3340,
+                "kills": 6,
+                "doubleKills": 0,
+                "tripleKills": 0,
+                "quadraKills": 0,
+                "pentaKills": 0,
+                "unrealKills": 0,
+                "largestKillingSpree": 2,
+                "deaths": 12,
+                "assists": 25,
+                "totalDamageDealt": 72772,
+                "totalDamageDealtToChampions": 28711,
+                "totalDamageTaken": 21939,
+                "largestCriticalStrike": 128,
+                "totalHeal": 1133,
+                "minionsKilled": 63,
+                "neutralMinionsKilled": 1,
+                "neutralMinionsKilledTeamJungle": 0,
+                "neutralMinionsKilledEnemyJungle": 1,
+                "goldEarned": 11192,
+                "goldSpent": 9355,
+                "magicDamageDealtToChampions": 8453,
+                "physicalDamageDealtToChampions": 20194,
+                "trueDamageDealtToChampions": 64,
+                "visionWardsBoughtInGame": 0,
+                "sightWardsBoughtInGame": 0,
+                "magicDamageDealt": 22591,
+                "physicalDamageDealt": 50040,
+                "trueDamageDealt": 140,
+                "magicDamageTaken": 7521,
+                "physicalDamageTaken": 13514,
+                "trueDamageTaken": 903,
+                "firstBloodKill": false,
+                "firstBloodAssist": false,
+                "firstTowerKill": false,
+                "firstTowerAssist": false,
+                "firstInhibitorKill": false,
+                "firstInhibitorAssist": true,
+                "inhibitorKills": 0,
+                "towerKills": 1,
+                "wardsPlaced": 4,
+                "wardsKilled": 0,
+                "largestMultiKill": 1,
+                "killingSprees": 1,
+                "totalUnitsHealed": 1,
+                "totalTimeCrowdControlDealt": 508
+            },
+            "timeline": {
+                "creepsPerMinDeltas": {
+                    "zeroToTen": 2.5,
+                    "tenToTwenty": 2.3
+                },
+                "xpPerMinDeltas": {
+                    "zeroToTen": 285.1,
+                    "tenToTwenty": 508.20000000000005
+                },
+                "goldPerMinDeltas": {
+                    "zeroToTen": 265.6,
+                    "tenToTwenty": 387.1
+                },
+                "csDiffPerMinDeltas": {
+                    "zeroToTen": -1.0499999999999998,
+                    "tenToTwenty": -0.2499999999999999
+                },
+                "xpDiffPerMinDeltas": {
+                    "zeroToTen": -18.75000000000003,
+                    "tenToTwenty": 26.24999999999997
+                },
+                "damageTakenPerMinDeltas": {
+                    "zeroToTen": 468.3,
+                    "tenToTwenty": 780.4
+                },
+                "damageTakenDiffPerMinDeltas": {
+                    "zeroToTen": -69.80000000000001,
+                    "tenToTwenty": -352.25000000000006
+                },
+                "role": "DUO_CARRY",
+                "lane": "BOTTOM"
+            }
+        }],
+        "participantIdentities": [{
+            "participantId": 0,
+            "player": {
+                "summonerName": "Robo The Pichu",
+                "matchHistoryUri": "/v1/stats/player_history/NA/34531049",
+                "profileIcon": 663
+            }
+        }]
+    }, {
+        "matchId": 1463071646,
+        "region": "NA",
+        "matchCreation": 1405977469589,
+        "matchDuration": 2024,
+        "queueType": "RANKED_SOLO_5x5",
+        "mapId": 1,
+        "season": "SEASON2014",
+        "matchVersion": "4.12.0.356",
+        "participants": [{
+            "participantId": 0,
+            "teamId": 200,
+            "championId": 51,
+            "spell1Id": 12,
+            "spell2Id": 13,
+            "stats": {
+                "winner": false,
+                "champLevel": 15,
+                "item0": 1055,
+                "item1": 3153,
+                "item2": 3046,
+                "item3": 3252,
+                "item4": 3031,
+                "item5": 1037,
+                "item6": 3340,
+                "kills": 12,
+                "doubleKills": 2,
+                "tripleKills": 0,
+                "quadraKills": 0,
+                "pentaKills": 0,
+                "unrealKills": 0,
+                "largestKillingSpree": 3,
+                "deaths": 14,
+                "assists": 18,
+                "totalDamageDealt": 103639,
+                "totalDamageDealtToChampions": 28254,
+                "totalDamageTaken": 26463,
+                "largestCriticalStrike": 918,
+                "totalHeal": 916,
+                "minionsKilled": 138,
+                "neutralMinionsKilled": 4,
+                "neutralMinionsKilledTeamJungle": 4,
+                "neutralMinionsKilledEnemyJungle": 0,
+                "goldEarned": 13463,
+                "goldSpent": 13920,
+                "magicDamageDealtToChampions": 3433,
+                "physicalDamageDealtToChampions": 24820,
+                "trueDamageDealtToChampions": 0,
+                "visionWardsBoughtInGame": 0,
+                "sightWardsBoughtInGame": 0,
+                "magicDamageDealt": 4342,
+                "physicalDamageDealt": 99296,
+                "trueDamageDealt": 0,
+                "magicDamageTaken": 13441,
+                "physicalDamageTaken": 12197,
+                "trueDamageTaken": 824,
+                "firstBloodKill": false,
+                "firstBloodAssist": false,
+                "firstTowerKill": false,
+                "firstTowerAssist": false,
+                "firstInhibitorKill": false,
+                "firstInhibitorAssist": false,
+                "inhibitorKills": 0,
+                "towerKills": 2,
+                "wardsPlaced": 6,
+                "wardsKilled": 1,
+                "largestMultiKill": 2,
+                "killingSprees": 3,
+                "totalUnitsHealed": 1,
+                "totalTimeCrowdControlDealt": 89
+            },
+            "timeline": {
+                "creepsPerMinDeltas": {
+                    "zeroToTen": 5.1,
+                    "tenToTwenty": 4.199999999999999,
+                    "twentyToThirty": 3
+                },
+                "xpPerMinDeltas": {
+                    "zeroToTen": 312.7,
+                    "tenToTwenty": 479.8,
+                    "twentyToThirty": 438.2
+                },
+                "goldPerMinDeltas": {
+                    "zeroToTen": 325,
+                    "tenToTwenty": 459,
+                    "twentyToThirty": 384.4
+                },
+                "csDiffPerMinDeltas": {
+                    "zeroToTen": 1.9,
+                    "tenToTwenty": -0.1499999999999999,
+                    "twentyToThirty": -0.6499999999999997
+                },
+                "xpDiffPerMinDeltas": {
+                    "zeroToTen": 112.34999999999998,
+                    "tenToTwenty": -51.650000000000006,
+                    "twentyToThirty": -57.50000000000003
+                },
+                "damageTakenPerMinDeltas": {
+                    "zeroToTen": 361,
+                    "tenToTwenty": 983.0999999999999,
+                    "twentyToThirty": 932.8
+                },
+                "damageTakenDiffPerMinDeltas": {
+                    "zeroToTen": -94.20000000000006,
+                    "tenToTwenty": 310.55000000000007,
+                    "twentyToThirty": 158.14999999999998
+                },
+                "role": "DUO",
+                "lane": "BOTTOM"
+            }
+        }],
+        "participantIdentities": [{
+            "participantId": 0,
+            "player": {
+                "summonerName": "Robo The Pichu",
+                "matchHistoryUri": "/v1/stats/player_history/NA/34531049",
+                "profileIcon": 663
+            }
+        }]
+    }, {
+        "matchId": 1470798551,
+        "region": "NA",
+        "matchCreation": 1406500262141,
+        "matchDuration": 2394,
+        "queueType": "RANKED_SOLO_5x5",
+        "mapId": 1,
+        "season": "SEASON2014",
+        "matchVersion": "4.12.0.438",
+        "participants": [{
+            "participantId": 0,
+            "teamId": 100,
+            "championId": 134,
+            "spell1Id": 14,
+            "spell2Id": 4,
+            "stats": {
+                "winner": true,
+                "champLevel": 17,
+                "item0": 3128,
+                "item1": 3174,
+                "item2": 3089,
+                "item3": 3020,
+                "item4": 1056,
+                "item5": 1029,
+                "item6": 3362,
+                "kills": 7,
+                "doubleKills": 0,
+                "tripleKills": 0,
+                "quadraKills": 0,
+                "pentaKills": 0,
+                "unrealKills": 0,
+                "largestKillingSpree": 3,
+                "deaths": 7,
+                "assists": 17,
+                "totalDamageDealt": 153058,
+                "totalDamageDealtToChampions": 38863,
+                "totalDamageTaken": 22466,
+                "largestCriticalStrike": 0,
+                "totalHeal": 1068,
+                "minionsKilled": 173,
+                "neutralMinionsKilled": 3,
+                "neutralMinionsKilledTeamJungle": 1,
+                "neutralMinionsKilledEnemyJungle": 2,
+                "goldEarned": 14041,
+                "goldSpent": 11450,
+                "magicDamageDealtToChampions": 35231,
+                "physicalDamageDealtToChampions": 2292,
+                "trueDamageDealtToChampions": 1340,
+                "visionWardsBoughtInGame": 0,
+                "sightWardsBoughtInGame": 0,
+                "magicDamageDealt": 133731,
+                "physicalDamageDealt": 17986,
+                "trueDamageDealt": 1340,
+                "magicDamageTaken": 11659,
+                "physicalDamageTaken": 9044,
+                "trueDamageTaken": 1762,
+                "firstBloodKill": false,
+                "firstBloodAssist": false,
+                "firstTowerKill": true,
+                "firstTowerAssist": false,
+                "firstInhibitorKill": false,
+                "firstInhibitorAssist": false,
+                "inhibitorKills": 0,
+                "towerKills": 2,
+                "wardsPlaced": 11,
+                "wardsKilled": 1,
+                "largestMultiKill": 1,
+                "killingSprees": 2,
+                "totalUnitsHealed": 1,
+                "totalTimeCrowdControlDealt": 446
+            },
+            "timeline": {
+                "creepsPerMinDeltas": {
+                    "zeroToTen": 6.2,
+                    "tenToTwenty": 4.6,
+                    "twentyToThirty": 2.8,
+                    "thirtyToEnd": 2.4
+                },
+                "xpPerMinDeltas": {
+                    "zeroToTen": 528,
+                    "tenToTwenty": 344.4,
+                    "twentyToThirty": 391.1,
+                    "thirtyToEnd": 329.8
+                },
+                "goldPerMinDeltas": {
+                    "zeroToTen": 289.3,
+                    "tenToTwenty": 294.8,
+                    "twentyToThirty": 325,
+                    "thirtyToEnd": 317
+                },
+                "csDiffPerMinDeltas": {
+                    "zeroToTen": 3.5,
+                    "tenToTwenty": 0.10000000000000009,
+                    "twentyToThirty": -0.7,
+                    "thirtyToEnd": -2.1999999999999997
+                },
+                "xpDiffPerMinDeltas": {
+                    "zeroToTen": 138.79999999999998,
+                    "tenToTwenty": -82.6,
+                    "twentyToThirty": -47.5,
+                    "thirtyToEnd": -56.599999999999966
+                },
+                "damageTakenPerMinDeltas": {
+                    "zeroToTen": 309.2,
+                    "tenToTwenty": 530,
+                    "twentyToThirty": 633.2,
+                    "thirtyToEnd": 707.6
+                },
+                "damageTakenDiffPerMinDeltas": {
+                    "zeroToTen": -105.39999999999999,
+                    "tenToTwenty": 195,
+                    "twentyToThirty": -75.19999999999999,
+                    "thirtyToEnd": -66.79999999999995
+                },
+                "role": "SOLO",
+                "lane": "MIDDLE"
+            }
+        }],
+        "participantIdentities": [{
+            "participantId": 0,
+            "player": {
+                "summonerName": "Robo The Pichu",
+                "matchHistoryUri": "/v1/stats/player_history/NA/34531049",
+                "profileIcon": 663
+            }
+        }]
+    }, {
+        "matchId": 1470916012,
+        "region": "NA",
+        "matchCreation": 1406503350890,
+        "matchDuration": 1239,
+        "queueType": "RANKED_SOLO_5x5",
+        "mapId": 1,
+        "season": "SEASON2014",
+        "matchVersion": "4.12.0.438",
+        "participants": [{
+            "participantId": 0,
+            "teamId": 100,
+            "championId": 37,
+            "spell1Id": 14,
+            "spell2Id": 4,
+            "stats": {
+                "winner": true,
+                "champLevel": 11,
+                "item0": 1026,
+                "item1": 3158,
+                "item2": 3092,
+                "item3": 2049,
+                "item4": 3113,
+                "item5": 1027,
+                "item6": 3340,
+                "kills": 2,
+                "doubleKills": 0,
+                "tripleKills": 0,
+                "quadraKills": 0,
+                "pentaKills": 0,
+                "unrealKills": 0,
+                "largestKillingSpree": 2,
+                "deaths": 4,
+                "assists": 14,
+                "totalDamageDealt": 24653,
+                "totalDamageDealtToChampions": 11127,
+                "totalDamageTaken": 9523,
+                "largestCriticalStrike": 0,
+                "totalHeal": 2802,
+                "minionsKilled": 9,
+                "neutralMinionsKilled": 0,
+                "neutralMinionsKilledTeamJungle": 0,
+                "neutralMinionsKilledEnemyJungle": 0,
+                "goldEarned": 7334,
+                "goldSpent": 6580,
+                "magicDamageDealtToChampions": 8703,
+                "physicalDamageDealtToChampions": 1792,
+                "trueDamageDealtToChampions": 631,
+                "visionWardsBoughtInGame": 0,
+                "sightWardsBoughtInGame": 4,
+                "magicDamageDealt": 18663,
+                "physicalDamageDealt": 5190,
+                "trueDamageDealt": 799,
+                "magicDamageTaken": 3304,
+                "physicalDamageTaken": 5960,
+                "trueDamageTaken": 258,
+                "firstBloodKill": false,
+                "firstBloodAssist": false,
+                "firstTowerKill": false,
+                "firstTowerAssist": false,
+                "firstInhibitorKill": false,
+                "firstInhibitorAssist": false,
+                "inhibitorKills": 0,
+                "towerKills": 2,
+                "wardsPlaced": 12,
+                "wardsKilled": 0,
+                "largestMultiKill": 1,
+                "killingSprees": 1,
+                "totalUnitsHealed": 4,
+                "totalTimeCrowdControlDealt": 62
+            },
+            "timeline": {
+                "creepsPerMinDeltas": {
+                    "zeroToTen": 0.2,
+                    "tenToTwenty": 0.7
+                },
+                "xpPerMinDeltas": {
+                    "zeroToTen": 274.29999999999995,
+                    "tenToTwenty": 505.9
+                },
+                "goldPerMinDeltas": {
+                    "zeroToTen": 174.2,
+                    "tenToTwenty": 498.20000000000005
+                },
+                "csDiffPerMinDeltas": {
+                    "zeroToTen": 0.6,
+                    "tenToTwenty": 1.65
+                },
+                "xpDiffPerMinDeltas": {
+                    "zeroToTen": 41.44999999999999,
+                    "tenToTwenty": 398.09999999999997
+                },
+                "damageTakenPerMinDeltas": {
+                    "zeroToTen": 370.20000000000005,
+                    "tenToTwenty": 582.1
+                },
+                "damageTakenDiffPerMinDeltas": {
+                    "zeroToTen": -56.349999999999994,
+                    "tenToTwenty": 15
+                },
+                "role": "DUO_SUPPORT",
+                "lane": "BOTTOM"
+            }
+        }],
+        "participantIdentities": [{
+            "participantId": 0,
+            "player": {
+                "summonerName": "Robo The Pichu",
+                "matchHistoryUri": "/v1/stats/player_history/NA/34531049",
+                "profileIcon": 663
+            }
+        }]
+    }, {
+        "matchId": 1471895977,
+        "region": "NA",
+        "matchCreation": 1406576309816,
+        "matchDuration": 1823,
+        "queueType": "RANKED_SOLO_5x5",
+        "mapId": 1,
+        "season": "SEASON2014",
+        "matchVersion": "4.12.0.438",
+        "participants": [{
+            "participantId": 0,
+            "teamId": 100,
+            "championId": 236,
+            "spell1Id": 7,
+            "spell2Id": 4,
+            "stats": {
+                "winner": true,
+                "champLevel": 15,
+                "item0": 3031,
+                "item1": 3153,
+                "item2": 3158,
+                "item3": 3044,
+                "item4": 3086,
+                "item5": 0,
+                "item6": 3340,
+                "kills": 10,
+                "doubleKills": 0,
+                "tripleKills": 0,
+                "quadraKills": 0,
+                "pentaKills": 0,
+                "unrealKills": 0,
+                "largestKillingSpree": 3,
+                "deaths": 8,
+                "assists": 11,
+                "totalDamageDealt": 134085,
+                "totalDamageDealtToChampions": 24360,
+                "totalDamageTaken": 22583,
+                "largestCriticalStrike": 670,
+                "totalHeal": 2070,
+                "minionsKilled": 194,
+                "neutralMinionsKilled": 6,
+                "neutralMinionsKilledTeamJungle": 6,
+                "neutralMinionsKilledEnemyJungle": 0,
+                "goldEarned": 13244,
+                "goldSpent": 11655,
+                "magicDamageDealtToChampions": 1257,
+                "physicalDamageDealtToChampions": 22727,
+                "trueDamageDealtToChampions": 376,
+                "visionWardsBoughtInGame": 1,
+                "sightWardsBoughtInGame": 1,
+                "magicDamageDealt": 4225,
+                "physicalDamageDealt": 129320,
+                "trueDamageDealt": 540,
+                "magicDamageTaken": 7720,
+                "physicalDamageTaken": 14703,
+                "trueDamageTaken": 160,
+                "firstBloodKill": false,
+                "firstBloodAssist": false,
+                "firstTowerKill": false,
+                "firstTowerAssist": false,
+                "firstInhibitorKill": true,
+                "firstInhibitorAssist": false,
+                "inhibitorKills": 1,
+                "towerKills": 3,
+                "wardsPlaced": 5,
+                "wardsKilled": 1,
+                "largestMultiKill": 1,
+                "killingSprees": 2,
+                "totalUnitsHealed": 3,
+                "totalTimeCrowdControlDealt": 115
+            },
+            "timeline": {
+                "creepsPerMinDeltas": {
+                    "zeroToTen": 6.8,
+                    "tenToTwenty": 8,
+                    "twentyToThirty": 4.6
+                },
+                "xpPerMinDeltas": {
+                    "zeroToTen": 325.3,
+                    "tenToTwenty": 557.2,
+                    "twentyToThirty": 488.5
+                },
+                "goldPerMinDeltas": {
+                    "zeroToTen": 281.8,
+                    "tenToTwenty": 497.9,
+                    "twentyToThirty": 459.3
+                },
+                "csDiffPerMinDeltas": {
+                    "zeroToTen": 0.8499999999999999,
+                    "tenToTwenty": 0.34999999999999987,
+                    "twentyToThirty": 0.30000000000000004
+                },
+                "xpDiffPerMinDeltas": {
+                    "zeroToTen": 14.400000000000006,
+                    "tenToTwenty": 199.20000000000002,
+                    "twentyToThirty": 47.60000000000005
+                },
+                "damageTakenPerMinDeltas": {
+                    "zeroToTen": 267.7,
+                    "tenToTwenty": 974,
+                    "twentyToThirty": 983.9000000000001
+                },
+                "damageTakenDiffPerMinDeltas": {
+                    "zeroToTen": -126.45000000000002,
+                    "tenToTwenty": -14.249999999999943,
+                    "twentyToThirty": 101.10000000000002
+                },
+                "role": "DUO_CARRY",
+                "lane": "BOTTOM"
+            }
+        }],
+        "participantIdentities": [{
+            "participantId": 0,
+            "player": {
+                "summonerName": "Robo The Pichu",
+                "matchHistoryUri": "/v1/stats/player_history/NA/34531049",
+                "profileIcon": 663
+            }
+        }]
+    }, {
+        "matchId": 1472023674,
+        "region": "NA",
+        "matchCreation": 1406586634070,
+        "matchDuration": 1945,
+        "queueType": "RANKED_SOLO_5x5",
+        "mapId": 1,
+        "season": "SEASON2014",
+        "matchVersion": "4.12.0.438",
+        "participants": [{
+            "participantId": 0,
+            "teamId": 100,
+            "championId": 236,
+            "spell1Id": 7,
+            "spell2Id": 4,
+            "stats": {
+                "winner": true,
+                "champLevel": 15,
+                "item0": 3031,
+                "item1": 3153,
+                "item2": 1028,
+                "item3": 1036,
+                "item4": 0,
+                "item5": 3158,
+                "item6": 3340,
+                "kills": 8,
+                "doubleKills": 1,
+                "tripleKills": 0,
+                "quadraKills": 0,
+                "pentaKills": 0,
+                "unrealKills": 0,
+                "largestKillingSpree": 4,
+                "deaths": 9,
+                "assists": 15,
+                "totalDamageDealt": 93837,
+                "totalDamageDealtToChampions": 19112,
+                "totalDamageTaken": 24840,
+                "largestCriticalStrike": 538,
+                "totalHeal": 3868,
+                "minionsKilled": 133,
+                "neutralMinionsKilled": 4,
+                "neutralMinionsKilledTeamJungle": 0,
+                "neutralMinionsKilledEnemyJungle": 4,
+                "goldEarned": 12295,
+                "goldSpent": 9825,
+                "magicDamageDealtToChampions": 2629,
+                "physicalDamageDealtToChampions": 16483,
+                "trueDamageDealtToChampions": 0,
+                "visionWardsBoughtInGame": 1,
+                "sightWardsBoughtInGame": 0,
+                "magicDamageDealt": 5755,
+                "physicalDamageDealt": 87874,
+                "trueDamageDealt": 208,
+                "magicDamageTaken": 8331,
+                "physicalDamageTaken": 16257,
+                "trueDamageTaken": 251,
+                "firstBloodKill": false,
+                "firstBloodAssist": false,
+                "firstTowerKill": false,
+                "firstTowerAssist": false,
+                "firstInhibitorKill": false,
+                "firstInhibitorAssist": true,
+                "inhibitorKills": 2,
+                "towerKills": 1,
+                "wardsPlaced": 4,
+                "wardsKilled": 0,
+                "largestMultiKill": 2,
+                "killingSprees": 1,
+                "totalUnitsHealed": 3,
+                "totalTimeCrowdControlDealt": 68
+            },
+            "timeline": {
+                "creepsPerMinDeltas": {
+                    "zeroToTen": 4.199999999999999,
+                    "tenToTwenty": 3.3,
+                    "twentyToThirty": 4.1
+                },
+                "xpPerMinDeltas": {
+                    "zeroToTen": 271.1,
+                    "tenToTwenty": 329.8,
+                    "twentyToThirty": 532.8
+                },
+                "goldPerMinDeltas": {
+                    "zeroToTen": 236,
+                    "tenToTwenty": 344.5,
+                    "twentyToThirty": 390.5
+                },
+                "csDiffPerMinDeltas": {
+                    "zeroToTen": 0.9999999999999999,
+                    "tenToTwenty": -0.6000000000000001,
+                    "twentyToThirty": -0.6000000000000001
+                },
+                "xpDiffPerMinDeltas": {
+                    "zeroToTen": 62.85000000000004,
+                    "tenToTwenty": 19.75000000000003,
+                    "twentyToThirty": -50.99999999999994
+                },
+                "damageTakenPerMinDeltas": {
+                    "zeroToTen": 602.5,
+                    "tenToTwenty": 714.9000000000001,
+                    "twentyToThirty": 871.2
+                },
+                "damageTakenDiffPerMinDeltas": {
+                    "zeroToTen": 141.45,
+                    "tenToTwenty": 13.149999999999977,
+                    "twentyToThirty": -91.90000000000003
+                },
+                "role": "DUO_CARRY",
+                "lane": "BOTTOM"
+            }
+        }],
+        "participantIdentities": [{
+            "participantId": 0,
+            "player": {
+                "summonerName": "Robo The Pichu",
+                "matchHistoryUri": "/v1/stats/player_history/NA/34531049",
+                "profileIcon": 663
+            }
+        }]
+    }, {
+        "matchId": 1472086066,
+        "region": "NA",
+        "matchCreation": 1406590438369,
+        "matchDuration": 1786,
+        "queueType": "RANKED_SOLO_5x5",
+        "mapId": 1,
+        "season": "SEASON2014",
+        "matchVersion": "4.12.0.438",
+        "participants": [{
+            "participantId": 0,
+            "teamId": 100,
+            "championId": 51,
+            "spell1Id": 7,
+            "spell2Id": 4,
+            "stats": {
+                "winner": true,
+                "champLevel": 14,
+                "item0": 1028,
+                "item1": 3006,
+                "item2": 3031,
+                "item3": 3046,
+                "item4": 1053,
+                "item5": 3211,
+                "item6": 3340,
+                "kills": 12,
+                "doubleKills": 2,
+                "tripleKills": 0,
+                "quadraKills": 0,
+                "pentaKills": 0,
+                "unrealKills": 0,
+                "largestKillingSpree": 4,
+                "deaths": 7,
+                "assists": 12,
+                "totalDamageDealt": 106194,
+                "totalDamageDealtToChampions": 20431,
+                "totalDamageTaken": 19911,
+                "largestCriticalStrike": 853,
+                "totalHeal": 2229,
+                "minionsKilled": 127,
+                "neutralMinionsKilled": 2,
+                "neutralMinionsKilledTeamJungle": 1,
+                "neutralMinionsKilledEnemyJungle": 1,
+                "goldEarned": 12557,
+                "goldSpent": 10710,
+                "magicDamageDealtToChampions": 1232,
+                "physicalDamageDealtToChampions": 19155,
+                "trueDamageDealtToChampions": 44,
+                "visionWardsBoughtInGame": 0,
+                "sightWardsBoughtInGame": 0,
+                "magicDamageDealt": 1616,
+                "physicalDamageDealt": 104490,
+                "trueDamageDealt": 88,
+                "magicDamageTaken": 6760,
+                "physicalDamageTaken": 12400,
+                "trueDamageTaken": 750,
+                "firstBloodKill": true,
+                "firstBloodAssist": false,
+                "firstTowerKill": true,
+                "firstTowerAssist": false,
+                "firstInhibitorKill": false,
+                "firstInhibitorAssist": true,
+                "inhibitorKills": 1,
+                "towerKills": 4,
+                "wardsPlaced": 5,
+                "wardsKilled": 0,
+                "largestMultiKill": 2,
+                "killingSprees": 3,
+                "totalUnitsHealed": 3,
+                "totalTimeCrowdControlDealt": 50
+            },
+            "timeline": {
+                "creepsPerMinDeltas": {
+                    "zeroToTen": 5.4,
+                    "tenToTwenty": 3.9
+                },
+                "xpPerMinDeltas": {
+                    "zeroToTen": 326.6,
+                    "tenToTwenty": 461.7
+                },
+                "goldPerMinDeltas": {
+                    "zeroToTen": 379.79999999999995,
+                    "tenToTwenty": 474.3
+                },
+                "csDiffPerMinDeltas": {
+                    "zeroToTen": 1.45,
+                    "tenToTwenty": -0.55
+                },
+                "xpDiffPerMinDeltas": {
+                    "zeroToTen": 171.35,
+                    "tenToTwenty": 26.399999999999977
+                },
+                "damageTakenPerMinDeltas": {
+                    "zeroToTen": 269.2,
+                    "tenToTwenty": 649.3
+                },
+                "damageTakenDiffPerMinDeltas": {
+                    "zeroToTen": -66.79999999999998,
+                    "tenToTwenty": -23.599999999999994
+                },
+                "role": "DUO_CARRY",
+                "lane": "BOTTOM"
+            }
+        }],
+        "participantIdentities": [{
+            "participantId": 0,
+            "player": {
+                "summonerName": "Robo The Pichu",
+                "matchHistoryUri": "/v1/stats/player_history/NA/34531049",
+                "profileIcon": 663
+            }
+        }]
+    }, {
+        "matchId": 1519607778,
+        "region": "NA",
+        "matchCreation": 1409627327518,
+        "matchDuration": 1436,
+        "queueType": "RANKED_SOLO_5x5",
+        "mapId": 1,
+        "season": "SEASON2014",
+        "matchVersion": "4.15.0.238",
+        "participants": [{
+            "participantId": 0,
+            "teamId": 200,
+            "championId": 85,
+            "spell1Id": 14,
+            "spell2Id": 4,
+            "stats": {
+                "winner": false,
+                "champLevel": 13,
+                "item0": 1055,
+                "item1": 3020,
+                "item2": 3136,
+                "item3": 3157,
+                "item4": 0,
+                "item5": 0,
+                "item6": 3340,
+                "kills": 8,
+                "doubleKills": 1,
+                "tripleKills": 0,
+                "quadraKills": 0,
+                "pentaKills": 0,
+                "unrealKills": 0,
+                "largestKillingSpree": 3,
+                "deaths": 11,
+                "assists": 3,
+                "totalDamageDealt": 55550,
+                "totalDamageDealtToChampions": 17108,
+                "totalDamageTaken": 22847,
+                "largestCriticalStrike": 0,
+                "totalHeal": 455,
+                "minionsKilled": 80,
+                "neutralMinionsKilled": 0,
+                "neutralMinionsKilledTeamJungle": 0,
+                "neutralMinionsKilledEnemyJungle": 0,
+                "goldEarned": 7983,
+                "goldSpent": 6460,
+                "magicDamageDealtToChampions": 13762,
+                "physicalDamageDealtToChampions": 2065,
+                "trueDamageDealtToChampions": 1280,
+                "visionWardsBoughtInGame": 0,
+                "sightWardsBoughtInGame": 0,
+                "magicDamageDealt": 38444,
+                "physicalDamageDealt": 15826,
+                "trueDamageDealt": 1280,
+                "magicDamageTaken": 9878,
+                "physicalDamageTaken": 12409,
+                "trueDamageTaken": 559,
+                "firstBloodKill": false,
+                "firstBloodAssist": false,
+                "firstTowerKill": false,
+                "firstTowerAssist": false,
+                "firstInhibitorKill": false,
+                "firstInhibitorAssist": false,
+                "inhibitorKills": 0,
+                "towerKills": 0,
+                "wardsPlaced": 0,
+                "wardsKilled": 0,
+                "largestMultiKill": 2,
+                "killingSprees": 1,
+                "totalUnitsHealed": 1,
+                "totalTimeCrowdControlDealt": 35
+            },
+            "timeline": {
+                "creepsPerMinDeltas": {
+                    "zeroToTen": 3.6,
+                    "tenToTwenty": 3.2
+                },
+                "xpPerMinDeltas": {
+                    "zeroToTen": 439.5,
+                    "tenToTwenty": 369.5
+                },
+                "goldPerMinDeltas": {
+                    "zeroToTen": 297.9,
+                    "tenToTwenty": 283.7
+                },
+                "csDiffPerMinDeltas": {
+                    "zeroToTen": -0.19999999999999973,
+                    "tenToTwenty": -1.1
+                },
+                "xpDiffPerMinDeltas": {
+                    "zeroToTen": 97.30000000000001,
+                    "tenToTwenty": -88.99999999999999
+                },
+                "damageTakenPerMinDeltas": {
+                    "zeroToTen": 545.1,
+                    "tenToTwenty": 1005.8
+                },
+                "damageTakenDiffPerMinDeltas": {
+                    "zeroToTen": 17.599999999999966,
+                    "tenToTwenty": 568.5999999999999
+                },
+                "role": "SOLO",
+                "lane": "MIDDLE"
+            }
+        }],
+        "participantIdentities": [{
+            "participantId": 0,
+            "player": {
+                "summonerName": "Robo The Pichu",
+                "matchHistoryUri": "/v1/stats/player_history/NA/34531049",
+                "profileIcon": 658
+            }
+        }]
+    }]
+}

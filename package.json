@@ -1,0 +1,37 @@
+{
+  "name": "WVL",
+  "version": "1.0.0",
+  "description": "A Web Application that shows how you differ when you win or lose",
+  "author": {
+    "name": "Spencer Alan Watson",
+    "email": "spenceralanwatson@gmail.com",
+    "url":  "http://spenceralanwatson.github.io/"
+  },
+  "homepage": "http://spenceralanwatson.github.io/",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Suddenly-Entertainment/isotilesystem"
+  },
+
+  "engines": {
+    "node": ">= 0.10.18",
+    "npm": ">= 1.0.0"
+  },
+
+  "dependencies": {
+    "express": "4.8.x",
+    "mime": "1.2.x",
+    "async": "0.2.x",
+    "underscore": "1.6.x",
+    "request": "2.40.x",
+    "mongodb": "1.4.x",
+      "js-beautify": "*",
+      "socket.io": "1.1.x"
+  },
+
+  "devDependencies": {},
+  "bundleDependencies": [],
+
+  "private": false,
+  "main": "wvl"
+}
