@@ -1,0 +1,20 @@
+#chart_container {
+    height: 500px;
+}
+.chart {
+    width: 100%;
+    height: 100%;
+}
+.item-img {
+    float: right;
+    height: 48px;
+    width: 48px;
+    background-repeat: no-repeat;
+}
+
+.spritesheet-item0 { background-image: url("//ddragon.leagueoflegends.com/cdn/4.15.1/img/sprite/item0.png"); }
+.spritesheet-item1 { background-image: url("//ddragon.leagueoflegends.com/cdn/4.15.1/img/sprite/item1.png"); }
+.spritesheet-item2 { background-image: url("//ddragon.leagueoflegends.com/cdn/4.15.1/img/sprite/item2.png"); }
+.spritesheet-item3 { background-image: url("//ddragon.leagueoflegends.com/cdn/4.15.1/img/sprite/item3.png"); }
+.spritesheet-item4 { background-image: url("//ddragon.leagueoflegends.com/cdn/4.15.1/img/sprite/item4.png"); }
+.spritesheet-item5 { background-image: url("//ddragon.leagueoflegends.com/cdn/4.15.1/img/sprite/item5.png"); }
