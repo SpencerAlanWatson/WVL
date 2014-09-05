@@ -107,5 +107,5 @@ function getAllMatchHistory(region, summonerName) {
 }
 
 function findParticipantIdInMatch(Match, summonerName) {
-    _.filter(Match.participantIdentities
+//    _.filter(Match.participantIdentities
 }
